@@ -3,7 +3,7 @@ var data = {
   features: [
     {
       type: "Feature",
-      properties: {},
+      properties: { name: "Bengaluru" },
       geometry: {
         coordinates: [77.71321164566905, 12.884628325774585],
         type: "Point",
